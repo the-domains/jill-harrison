@@ -1,0 +1,23 @@
+name: Jill Harrison
+favicon: null
+layout_spectrum: 0.7062176221515983
+typography_spectrum: 0.34217503713443875
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.3171343228314072
+  lightness: 0.8050815938040614
+  saturation: 0.875772584695369
+  rhythmicContrast: 0.8724583627190441
+purpose: []
